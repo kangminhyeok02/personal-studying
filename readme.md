@@ -8,5 +8,6 @@
 - 고려대학교 김성범 교수님 유튜브 - 핵심 머신러닝/ - https://www.youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j
   
 ### NLP 공부자료
+- cs224
 
 ### 밑바닥부터 시작하는 딥러닝 2 
